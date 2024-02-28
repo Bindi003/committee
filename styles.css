@@ -33,7 +33,7 @@ body {
 }
 .scroll {
     position: absolute;
-    bottom: 20px;
+    top: 20px;
     right: 60px;
     color: #1480C3;
     font-family: 'rubik', sans-serif;
